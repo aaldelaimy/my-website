@@ -1,9 +1,8 @@
 {
-  "short_name": "Ayoob Al-Delaimy",
-  "name": "Ayoob Al-Delaimy",
+  "short_name": "Ayoob Al Delaimy",
   "icons": [
     {
-      "src": "AA.ico",
+      "src": "AA.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
